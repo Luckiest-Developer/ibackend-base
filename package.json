@@ -1,0 +1,27 @@
+{
+  "name": "ibackend-base",
+  "version": "1.0.0",
+  "description": "ibackend is a base backend for me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Luckiest-Developer@bitbucket.org/beaststeam/ibackend-base.git"
+  },
+  "keywords": [
+    "backend",
+    "base",
+    "s3",
+    "ses",
+    "twillow"
+  ],
+  "author": "moayad",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/beaststeam/ibackend-base#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
